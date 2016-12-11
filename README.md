@@ -194,4 +194,4 @@ UIGraphicsEndImageContext();
 　　UIKit和Core Graphics可以在相同的图形上下文中混合使用。在iOS 4.0之前，使用UIKit和UIGraphicsGetCurrentContext被认为是线程不安全的。而在iOS4.0以后苹果让绘图操作在第二个线程中执行解决了此问题。
 
 
-[参考资料](http://www.cnblogs.com/xdream86/archive/2012/12/12/2814552.html)
+[参考资料](http://blog.csdn.net/wwwwwwwwwwwwdi/article/details/53573575)
